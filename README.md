@@ -21,6 +21,8 @@ Example Breakdown:
 
 Each component is designed to be brief, meaningful, and universally understandable across the organization, enabling administrators and users to quickly identify group purposes without requiring additional documentation lookups.
 
+For more detailed information reivew [Entra ID Naming Convention Components and Definitions](https://github.com/K-Lanflo/entra-group-namingconventions/blob/main/component-definitions.md)
+
 ### Rationale
 Why This Convention Matters:
 
